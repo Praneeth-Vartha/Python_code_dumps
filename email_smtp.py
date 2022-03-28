@@ -1,3 +1,4 @@
+#seding mail using SMTP protocol
 import smtplib
 mail="varthpraneeth@gmail.com"
 password="machilipatnam"
